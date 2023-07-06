@@ -1,0 +1,5 @@
+name: SmallTeleporter
+main: de.sbg.unity.smallteleporter.SmallTeleporter
+version: 1.0.2
+author: Sandboxgamer
+description: "Teleporting by command"
